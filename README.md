@@ -12,27 +12,27 @@ This repository tracks my participation in the Indian Data Club’s 21 Days SQL 
 
 ## Day-wise Progress Checklist
 
-- [ ] Day 1: SELECT & FROM basics
-- [ ] Day 2: WHERE clause practice
-- [ ] Day 3: ORDER BY & sorting
-- [ ] Day 4: DISTINCT & filtering
-- [ ] Day 5: LIMIT & TOP queries
-- [ ] Day 6: Aggregate functions (SUM, AVG, COUNT)
-- [ ] Day 7: GROUP BY basics
-- [ ] Day 8: HAVING clause
-- [ ] Day 9: Joining tables (INNER JOIN)
-- [ ] Day 10: LEFT, RIGHT, FULL JOIN
-- [ ] Day 11: Subqueries introduction
-- [ ] Day 12: Nested queries & IN, EXISTS
-- [ ] Day 13: CASE statements
-- [ ] Day 14: Data types & constraints
-- [ ] Day 15: Table creation & alteration
-- [ ] Day 16: Data manipulation (INSERT, UPDATE, DELETE)
-- [ ] Day 17: Views & Indexes
-- [ ] Day 18: Window functions basics
-- [ ] Day 19: Advanced analytic queries
-- [ ] Day 20: Project day / Capstone
-- [ ] Day 21: Review & final project
+- [ ] Day 1: Introduction to SQL & SELECT Statement
+- [ ] Day 2: Filtering Data with WHERE Clause
+- [ ] Day 3: Sorting Data with ORDER BY
+- [ ] Day 4: LIMIT and OFFSET
+- [ ] Day 5: Aggregate Functions (COUNT, SUM, AVG, MIN, MAX)
+- [ ] Day 6: GROUP BY Clause
+- [ ] Day 7: HAVING Clause
+- [ ] Day 8: String Functions
+- [ ] Day 9: Date Functions
+- [ ] Day 10: CASE Statements
+- [ ] Day 11: 
+- [ ] Day 12: NULL Values and IS NULL/IS NOT NULL
+- [ ] Day 13: INNER JOIN
+- [ ] Day 14: LEFT JOIN and RIGHT JOIN
+- [ ] Day 15: Multiple Joins
+- [ ] Day 16: Subqueries (WHERE clause)
+- [ ] Day 17: Subqueries (SELECT and FROM clause)
+- [ ] Day 18: UNION and UNION ALL
+- [ ] Day 19: Analytical Functions (Window Functions)
+- [ ] Day 20: Analytical Functions (Window Functions)
+- [ ] Day 21: Query Organisation (CTEs)
 
 ---
 
