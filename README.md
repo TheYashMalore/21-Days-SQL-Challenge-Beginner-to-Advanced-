@@ -14,7 +14,7 @@ This repository tracks my participation in the Indian Data Club’s 21 Days SQL 
 ## Day-wise Progress Checklist
 
 - [x] Day 1: Introduction to SQL & SELECT Statement
-- [ ] Day 2: Filtering Data with WHERE Clause
+- [x] Day 2: Filtering Data with WHERE Clause
 - [ ] Day 3: Sorting Data with ORDER BY
 - [ ] Day 4: LIMIT and OFFSET
 - [ ] Day 5: Aggregate Functions (COUNT, SUM, AVG, MIN, MAX)
