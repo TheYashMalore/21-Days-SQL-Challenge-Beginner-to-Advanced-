@@ -1,6 +1,7 @@
 # 21 Days SQL Challenge 🚀
 
 Strengthening my SQL skills with the Indian Data Club in 21 days!
+ #SQLWithIDC
 
 ## About the Challenge
 This repository tracks my participation in the Indian Data Club’s 21 Days SQL Challenge (Beginner to Advanced). The challenge focuses on daily hands-on SQL practice to build strong fundamentals for analytics and data-driven roles.
