@@ -16,7 +16,7 @@ This repository tracks my participation in the Indian Data Club’s 21 Days SQL 
 - [x] Day 1: Introduction to SQL & SELECT Statement
 - [x] Day 2: Filtering Data with WHERE Clause
 - [x] Day 3: Sorting Data with ORDER BY
-- [ ] Day 4: LIMIT and OFFSET
+- [x] Day 4: LIMIT and OFFSET
 - [ ] Day 5: Aggregate Functions (COUNT, SUM, AVG, MIN, MAX)
 - [ ] Day 6: GROUP BY Clause
 - [ ] Day 7: HAVING Clause
