@@ -18,7 +18,7 @@ This repository tracks my participation in the Indian Data Club’s 21 Days SQL 
 - [x] Day 3: Sorting Data with ORDER BY
 - [x] Day 4: LIMIT and OFFSET
 - [x] Day 5: Aggregate Functions (COUNT, SUM, AVG, MIN, MAX)
-- [ ] Day 6: GROUP BY Clause
+- [x] Day 6: GROUP BY Clause
 - [ ] Day 7: HAVING Clause
 - [ ] Day 8: String Functions
 - [ ] Day 9: Date Functions
