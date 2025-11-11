@@ -6,7 +6,6 @@ Strengthening my SQL skills with the Indian Data Club in 21 days!
 ## About the Challenge
 This repository tracks my participation in the Indian Data Club’s 21 Days SQL Challenge (Beginner to Advanced). The challenge focuses on daily hands-on SQL practice to build strong fundamentals for analytics and data-driven roles.
 
-- **Duration:** Nov 3 – Nov 23, 2025
 - **Goal:** Consistent practice, practical exercises, and problem-solving in SQL
 
 ---
@@ -20,7 +19,7 @@ This repository tracks my participation in the Indian Data Club’s 21 Days SQL 
 - [x] Day 5: Aggregate Functions (COUNT, SUM, AVG, MIN, MAX)
 - [x] Day 6: GROUP BY Clause
 - [x] Day 7: HAVING Clause
-- [ ] Day 8: String Functions
+- [x] Day 8: String Functions
 - [ ] Day 9: Date Functions
 - [ ] Day 10: CASE Statements
 - [ ] Day 11: 
