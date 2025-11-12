@@ -1,4 +1,3 @@
-
 -- Practice Question 1. Extract the year from all patient arrival dates.
 select patient_id, name , year(arrival_date) as arrival_year from patients;
 
@@ -15,7 +14,7 @@ select service, round(avg(datediff(departure_date,arrival_date)),1)  as avg_stay
 from patients
 group by service
 having round(avg(datediff(departure_date,arrival_date)),1) > 7
-order by avg_stay desc  ;
+order by avg_stay desc;
 
 
 
