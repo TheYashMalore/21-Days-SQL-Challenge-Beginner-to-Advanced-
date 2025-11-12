@@ -20,7 +20,7 @@ This repository tracks my participation in the Indian Data Club’s 21 Days SQL 
 - [x] Day 6: GROUP BY Clause
 - [x] Day 7: HAVING Clause
 - [x] Day 8: String Functions
-- [ ] Day 9: Date Functions
+- [x] Day 9: Date Functions
 - [ ] Day 10: CASE Statements
 - [ ] Day 11: 
 - [ ] Day 12: NULL Values and IS NULL/IS NOT NULL
