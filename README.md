@@ -21,8 +21,8 @@ This repository tracks my participation in the Indian Data Club’s 21 Days SQL 
 - [x] Day 7: HAVING Clause
 - [x] Day 8: String Functions
 - [x] Day 9: Date Functions
-- [ ] Day 10: CASE Statements
-- [ ] Day 11: 
+- [x] Day 10: CASE Statements
+- [x] Day 11: DISTINCT and Handling Duplicates
 - [ ] Day 12: NULL Values and IS NULL/IS NOT NULL
 - [ ] Day 13: INNER JOIN
 - [ ] Day 14: LEFT JOIN and RIGHT JOIN
