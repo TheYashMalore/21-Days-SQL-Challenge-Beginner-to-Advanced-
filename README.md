@@ -24,7 +24,7 @@ This repository tracks my participation in the Indian Data Club’s 21 Days SQL 
 - [x] Day 10: CASE Statements
 - [x] Day 11: DISTINCT and Handling Duplicates
 - [x] Day 12: NULL Values and IS NULL/IS NOT NULL
-- [ ] Day 13: INNER JOIN
+- [x] Day 13: INNER JOIN
 - [ ] Day 14: LEFT JOIN and RIGHT JOIN
 - [ ] Day 15: Multiple Joins
 - [ ] Day 16: Subqueries (WHERE clause)
