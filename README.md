@@ -25,8 +25,9 @@ This repository tracks my participation in the Indian Data Club’s 21 Days SQL 
 - [x] Day 11: DISTINCT and Handling Duplicates
 - [x] Day 12: NULL Values and IS NULL/IS NOT NULL
 - [x] Day 13: INNER JOIN
-- [ ] Day 14: LEFT JOIN and RIGHT JOIN
-- [ ] Day 15: Multiple Joins
+- [x] Day 14: LEFT JOIN and RIGHT JOIN
+- [x] Day 15: Multiple Joins
+- [x] Mini SQL Project: The Great Pizza Analytics
 - [ ] Day 16: Subqueries (WHERE clause)
 - [ ] Day 17: Subqueries (SELECT and FROM clause)
 - [ ] Day 18: UNION and UNION ALL
