@@ -28,12 +28,12 @@ This repository tracks my participation in the Indian Data Club’s 21 Days SQL 
 - [x] Day 14: LEFT JOIN and RIGHT JOIN
 - [x] Day 15: Multiple Joins
 - [x] Mini SQL Project: The Great Pizza Analytics
-- [ ] Day 16: Subqueries (WHERE clause)
-- [ ] Day 17: Subqueries (SELECT and FROM clause)
-- [ ] Day 18: UNION and UNION ALL
-- [ ] Day 19: Analytical Functions (Window Functions)
-- [ ] Day 20: Analytical Functions (Window Functions)
-- [ ] Day 21: Query Organisation (CTEs)
+- [x] Day 16: Subqueries (WHERE clause)
+- [x] Day 17: Subqueries (SELECT and FROM clause)
+- [x] Day 18: UNION and UNION ALL
+- [x] Day 19: Analytical Functions (Window Functions)
+- [x] Day 20: Analytical Functions (Window Functions)
+- [x] Day 21: Query Organisation (CTEs)
 
 ---
 
