@@ -34,8 +34,7 @@ This repository tracks my participation in the Indian Data Club’s 21 Days SQL 
 - [x] Day 19: Analytical Functions (Window Functions)
 - [x] Day 20: Analytical Functions (Window Functions)
 - [x] Day 21: Query Organisation (CTEs)
-
----
+- [x] Final Capstone Project: SQL Murder Mystery - “Who Killed the CEO?”
 
 ## Outcomes
 
